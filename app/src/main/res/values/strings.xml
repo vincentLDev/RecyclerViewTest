@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerViewTest</string>
+    <string name="name1">NAME_1</string>
+    <string name="name2">NAME_2</string>
+    <string name="name3">NAME_3</string>
+
+    <string name="Num_1">1</string>
+    <string name="Num_2">2</string>
+    <string name="Num_3">3</string>
+
+</resources>
