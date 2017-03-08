@@ -19,9 +19,9 @@ public class FruitAdapter extends RecyclerView.Adapter<FruitAdapter.ViewHolder> 
 
     private List<Fruit> mFruitList;
 
-
     static class ViewHolder extends RecyclerView.ViewHolder {
         View fruitView;
+
         ImageView fruitImage;
         TextView fruitName;
 
